@@ -1,5 +1,5 @@
 { "homepage": "http://dafirm.github.io/tesla-clone-dafirm",
-  "name": "tesla-clone",
+  "name": "tesla-clone-dafirm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
