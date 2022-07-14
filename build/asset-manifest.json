@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tesla-clone-dafirm/static/css/main.92d08d91.css",
-    "main.js": "/tesla-clone-dafirm/static/js/main.359deed6.js",
-    "static/js/787.860837ff.chunk.js": "/tesla-clone-dafirm/static/js/787.860837ff.chunk.js",
+    "main.js": "/tesla-clone-dafirm/static/js/main.7a4dd6b6.js",
+    "static/js/787.f0b00ae0.chunk.js": "/tesla-clone-dafirm/static/js/787.f0b00ae0.chunk.js",
     "static/media/logo.svg": "/tesla-clone-dafirm/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
     "index.html": "/tesla-clone-dafirm/index.html",
     "main.92d08d91.css.map": "/tesla-clone-dafirm/static/css/main.92d08d91.css.map",
-    "main.359deed6.js.map": "/tesla-clone-dafirm/static/js/main.359deed6.js.map",
-    "787.860837ff.chunk.js.map": "/tesla-clone-dafirm/static/js/787.860837ff.chunk.js.map"
+    "main.7a4dd6b6.js.map": "/tesla-clone-dafirm/static/js/main.7a4dd6b6.js.map",
+    "787.f0b00ae0.chunk.js.map": "/tesla-clone-dafirm/static/js/787.f0b00ae0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92d08d91.css",
-    "static/js/main.359deed6.js"
+    "static/js/main.7a4dd6b6.js"
   ]
 }
